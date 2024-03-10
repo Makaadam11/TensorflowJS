@@ -3,14 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@tensorflow-models/face-landmarks-detection": "0.0.2",
+    "@tensorflow-models/face-landmarks-detection": "^0.0.2",
+    "@tensorflow-models/speech-commands": "^0.5.4",
     "@tensorflow/tfjs": "^2.3.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "caniuse-lite": "^1.0.30001589",
+    "opencv.js": "^1.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
+    "react-speech-recognition": "^3.10.0",
     "react-webcam": "^5.2.0"
   },
   "scripts": {
