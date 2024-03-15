@@ -1,5 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project by A Maka link to folder with video and report:
 
+https://drive.google.com/drive/folders/1jOAtwv535zkg7RjIAfXyxrrbRfHqq8d6
+
+
+
+--------------------------------------------------------------------------------------
 ## Available Scripts
 
 In the project directory, you can run:
